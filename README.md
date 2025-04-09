@@ -1,4 +1,24 @@
 # 🎱 어 나 兵 1272 期 조현열 인데 🎱
+## 🎵 TMI – 개발할 때 듣는 음악 채널
+
+<div align="center">
+  <p>
+    <kbd><a href="https://www.youtube.com/@broadplay">☕ Broadplay</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <kbd><a href="https://www.youtube.com/@yusu_lee">🎹 유수</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <kbd><a href="https://www.youtube.com/@essentialme">🌿 Essential Me</a></kbd>
+  </p>
+  
+  <p>
+    <kbd><a href="https://www.youtube.com/channel/UCILZltam9zTBOGGqV3BwIWw">🎷 Cafe Music BGM Channel</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <kbd><a href="https://www.youtube.com/@amooteun">🎧 아무튼</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <kbd><a href="https://www.youtube.com/@user-d1n6v">🌙 Lo-Fi 유저 채널</a></kbd>
+  </p>
+  
+  <br>
+  <p><i>— music for coding moments —</i></p>
+</div>
+
+---
 
 <div align="center">
   <!-- GitHub Stats at the top -->
@@ -31,27 +51,6 @@
 - 📝 Blog: [hycho5591 blog](https://blog.naver.com/hycho5591)  
 - ❌ LinkedIn: 아직 없음!
 
-## 🎵 TMI – 개발할 때 듣는 음악 채널
-
-<div align="center">
-  <p>
-    <kbd><a href="https://www.youtube.com/@broadplay">☕ Broadplay</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <kbd><a href="https://www.youtube.com/@yusu_lee">🎹 유수</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <kbd><a href="https://www.youtube.com/@essentialme">🌿 Essential Me</a></kbd>
-  </p>
-  
-  <p>
-    <kbd><a href="https://www.youtube.com/channel/UCILZltam9zTBOGGqV3BwIWw">🎷 Cafe Music BGM Channel</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <kbd><a href="https://www.youtube.com/@amooteun">🎧 아무튼</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <kbd><a href="https://www.youtube.com/@user-d1n6v">🌙 Lo-Fi 유저 채널</a></kbd>
-  </p>
-  
-  <br>
-  <p><i>— music for coding moments —</i></p>
-</div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=daniel972632&color=blueviolet" alt="Profile views" />
-</div>
