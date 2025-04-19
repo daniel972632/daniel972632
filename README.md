@@ -15,7 +15,6 @@
   </p>
   
   <br>
-  <p><i>— music for coding moments —</i></p>
 </div>
 
 ---
