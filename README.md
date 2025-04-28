@@ -1,6 +1,5 @@
-# 🎱 어 나 조현열 인데 인사 안하냐?🎱
-## 🎵 TMI – 개발할 때 듣는 음악 채널
-
+# 🎱조현열🎱
+## 🎵 music is my life - (무직은 나의 삶) 🎵 
 <div align="center">
   <p>
     <kbd><a href="https://www.youtube.com/@broadplay">☕ Broadplay</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
