@@ -1,54 +1,61 @@
-# 🎱조현열🎱
-## 🎵 music is my life - (무직은 나의 삶) 🎵 
+# 🎱 Hyun-Yeol Cho
+
+## 🎵 *Music is my life — (Unemployment is, too)* 🎵
+
 <div align="center">
   <p>
     <kbd><a href="https://www.youtube.com/@broadplay">☕ Broadplay</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <kbd><a href="https://www.youtube.com/@yusu_lee">🎹 유수</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <kbd><a href="https://www.youtube.com/@yusu_lee">🎹 Yusu</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
     <kbd><a href="https://www.youtube.com/@essentialme">🌿 Essential Me</a></kbd>
   </p>
-  
   <p>
-    <kbd><a href="https://www.youtube.com/channel/UCILZltam9zTBOGGqV3BwIWw">🎷 Cafe Music BGM Channel</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <kbd><a href="https://www.youtube.com/@amooteun">🎧 아무튼</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <kbd><a href="https://www.youtube.com/@user-d1n6v">🌙 Lo-Fi 유저 채널</a></kbd>
+    <kbd><a href="https://www.youtube.com/channel/UCILZltam9zTBOGGqV3BwIWw">🎷 Cafe Music BGM</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <kbd><a href="https://www.youtube.com/@amooteun">🎧 Amooteun</a></kbd>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <kbd><a href="https://www.youtube.com/@user-d1n6v">🌙 Lo-Fi Vibes</a></kbd>
   </p>
-  
-  <br>
 </div>
 
 ---
-
-<div align="center">
-  <!-- GitHub Stats at the top -->
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel972632&show_icons=true&theme=tokyonight&hide_border=true&width=450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel972632&layout=compact&theme=tokyonight&hide_border=true&width=450" />
-  
-  <!-- Solved.ac Badge -->
-  <a href="https://solved.ac/pejqueen7">
-    <img src="https://mazassumnida.wtf/api/generate_badge?boj=pejqueen7" alt="solved.ac tier" width="450" />
-  </a>
-</div>
 
 ## 👨‍💻 About Me
-- 🎖 2002년생 / 해병대 공병 만기 전역
-- 💻 백엔드와 프론트엔드 모두 가능한 풀스택 개발자
-- 🚀 현재는 **React 기반 프로젝트** 진행 중
 
-## 🛠️ Tech Stack
-- **Frontend**: React, React Native, JavaScript, TypeScript, JavaFX
-- **Backend**: Java, Spring, Spring Boot, Node.js, Flask, PHP
-- **Data**: Python (CUDA, Jupyter Notebook), R, MySQL, Firebase, MongoDB
-- **Etc**: GitHub (여러 브랜치 전략 실험 중, PR 기반 협업 경험 있음)
-
-## 🚀 Projects
-- 🔗 **[실시간 방송/상품 통합 플랫폼]** - 라이브 커머스 통합 검색 및 스케줄링 시스템
-- 🔗 **[IoT 기반 건강 모니터링 및 요양보호사 매칭 서비스]** - 웨어러블 기기를 활용한 노인 케어 서비스 플랫폼
-
-## 📬 Contact
-- 📧 Email: pejqueen7@gmail.com  
-- 📝 Blog: [hycho5591 blog](https://blog.naver.com/hycho5591)  
-- ❌ LinkedIn: 아직 없음!
-
+* 🎖 Born in 2002 · Former ROK Marine Corps Engineer
+* 💻 Full-stack developer with experience in **frontend & backend**
+* 🚀 Currently building **React-based applications**
+* 🔍 Enjoy exploring new tech, experimenting, and solving system-level problems
 
 ---
 
+## 🛠 Tech Stack
+
+**Frontend**
+React · React Native · JavaScript · TypeScript · JavaFX
+
+**Backend**
+Java · Spring · Spring Boot · Node.js · Flask · PHP
+
+**Data / Tools**
+Python (CUDA) · R · MySQL · MongoDB · Firebase
+
+**Collaboration & DevOps**
+GitHub · Git Flow · PR-based development
+
+---
+
+## 🚀 Projects
+
+### 🔗 **[Live Commerce Integration Platform](https://github.com/daniel972632/Live-Commerce-Integration-Platform)**
+
+A unified platform that aggregates live-streaming schedules, product information, and commerce data from multiple providers.
+
+### 🔗 **[IoT-based Senior Healthcare Monitoring & Caregiver Matching Service](https://github.com/daniel972632/Senior-Healthcare-IoT-Platform)**
+
+A platform that uses wearable devices to track real-time health data and match seniors with qualified caregivers.
+
+---
+
+## 📬 Contact
+
+* 📧 Email: **[daniel972632@kakao.com](mailto:daniel972632@kakao.com)**
+* 💼 LinkedIn: **[linkedin.com/in/hyun-yeol-cho](https://www.linkedin.com/in/hyun-yeol-cho-18084a373/)**
+* 📝 Blog: **[Naver Blog](https://blog.naver.com/hycho5591)**
