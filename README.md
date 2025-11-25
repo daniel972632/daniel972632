@@ -44,11 +44,11 @@ GitHub · Git Flow · PR-based development
 
 ## 🚀 Projects
 
-### 🔗 **[Live Commerce Integration Platform](https://github.com/daniel972632/Live-Commerce-Integration-Platform)**
+### 🔗 **[Live Commerce Integration Platform](https://github.com/sm-comprehensive-project/comprehensive_project_react)**
 
 A unified platform that aggregates live-streaming schedules, product information, and commerce data from multiple providers.
 
-### 🔗 **[IoT-based Senior Healthcare Monitoring & Caregiver Matching Service](https://github.com/daniel972632/Senior-Healthcare-IoT-Platform)**
+### 🔗 **[IoT-based Senior Healthcare Monitoring & Caregiver Matching Service](https://github.com/daniel972632/senior)**
 
 A platform that uses wearable devices to track real-time health data and match seniors with qualified caregivers.
 
